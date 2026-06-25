@@ -14,6 +14,6 @@
 > ⚠️ **Important** : après avoir cliqué sur *Open in Colab*, le notebook s'ouvre en lecture seule.
 > Pour pouvoir modifier et exécuter le code, cliquez sur le bouton **"Copier sur Drive"** qui apparaît en haut de la page :
 >
-> ![Copier sur Drive](images/copier_sur_drive.png)
+> ![Copier sur Drive](CopierDriveColab.png)
 >
 > Une copie personnelle est alors créée dans votre Google Drive — c'est sur cette copie que vous travaillerez.
